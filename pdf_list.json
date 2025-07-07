@@ -1,24 +1,24 @@
 {
-  "pdfs": [
+  "files": [
     {
-      "title": "Dummy PDF - W3C",
+      "title": "Dummy PDF",
       "url": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
     },
     {
-      "title": "Sample PDF 100KB",
-      "url": "https://www.africau.edu/images/default/sample.pdf"
+      "title": "Sample PPT",
+      "url": "https://file-examples.com/wp-content/uploads/2017/08/file_example_PPT_500kB.ppt"
     },
     {
-      "title": "Adobe PDF Test",
-      "url": "https://acrobatservices.adobe.com/dc-demo-assets/Files/pdf-test.pdf"
+      "title": "Sample DOC",
+      "url": "https://file-examples.com/wp-content/uploads/2017/02/file-sample_100kB.doc"
     },
     {
-      "title": "Small PDF Example",
-      "url": "https://unec.edu.az/application/uploads/2014/12/pdf-sample.pdf"
+      "title": "Sample DOCX",
+      "url": "https://file-examples.com/wp-content/uploads/2017/02/file-sample_100kB.docx"
     },
     {
-      "title": "Linux Training Manual",
-      "url": "https://tldp.org/LDP/intro-linux/intro-linux.pdf"
+      "title": "Sample Excel XLS",
+      "url": "https://file-examples.com/wp-content/uploads/2017/02/file_example_XLS_10.xls"
     }
   ]
 }
